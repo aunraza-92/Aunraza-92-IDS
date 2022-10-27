@@ -1,0 +1,16 @@
+in row 123----- I changes the month from 1 to September.
+in row 125----- I changed the weight from 80kg to 80.
+row 130--- I changed the hssc 2nd marks to 400 from 824.
+row 112--- I changed the total marks from 768/1100 to 386.
+row 110- changed the marks from 863 to 373.
+105--- changed the marks from 792 to 387
+95----- changed 900 to 450 and 856 to 428.
+94---- changed 99 to 450
+97----- changed 919 to 409
+48 changed 368/505 to 368.
+44------ changed 60% to 400.
+40----- changed 24/02/2001 to february.
+in 31---- changed weight from58 kg to 58
+in 61---- changed 755 total to 755.
+
+Edited the cgpas of students from 2.84. to 2.84 as it was giving error not conerting from string to float.
